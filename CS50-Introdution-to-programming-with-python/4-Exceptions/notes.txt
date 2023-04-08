@@ -1,0 +1,6 @@
+# SyntaxError
+# ValueError = type is different of what is expected
+# NameError = a variable was not declared
+
+
+Learn how to use DEBUG in VSCODE

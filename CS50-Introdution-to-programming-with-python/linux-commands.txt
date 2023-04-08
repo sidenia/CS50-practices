@@ -1,0 +1,12 @@
+-------------------------
+Command Line Linux
+-------------------------
+
+ls = listar objetos de um diretório
+cp = copiar o objeto, se necessário para outro arquivo. com a sintaxe: cp nomearquivo1.py nomedoarquivo2.py
+mv = mover ou RENOMEAR arquivo com a sintaxe: mv nomearquivo1.py nomedoarquivo2.py
+rm = remover 
+mkdir = make directory - criar repositório
+cd = change directory - mudar diretório
+rmdir = remover diretório
+clear = limpar 

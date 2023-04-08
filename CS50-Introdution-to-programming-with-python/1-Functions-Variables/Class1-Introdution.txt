@@ -1,0 +1,44 @@
+CS50 Introdution to Programming with Python
+Professor: David J. Malan
+malan@harvard.edu
+
+
+---------------------------------------------------
+LIÇÃO 1
+---------------------------------------------------
+1) criar arquivo pelo terminal no vs code
+
+code nomedoarquivo.py
+ex: code hello.py
+
+rodando o arquivo pelo terminal 
+ex: python hello.py
+
+2) Arguments => input para uma função
+
+3) Side Effects => o resultado que um programa realiza. Essa saída pode ser visual, pode ser audio
+
+4) Bugs = Erros no seu código, que causam desvios indesejados, tornando-se problemas a serem resolvidos.
+
+5) Parameters = Valores esperados na chamada de uma função.
+
+6)Interactive mode Python = abrir o terminal do python digitando apenas python
+
+7) Quando você usa o sinal de atribuição (+) em uma string vai concatenar. Em tipo int vai somar.
+Ex:
+  concatena:
+    x = input('Whats x value?')
+    y = input('Whats y value?')
+    z = x + y
+    print(z)
+
+  soma:
+    x = input('Whats x value?')
+    y = input('Whats y value?')
+    z = int(x) + int(y
+    print(z)
+
+8) escope  =  Estar no escopo do código/função
+
+9 return = retorno de função
+
